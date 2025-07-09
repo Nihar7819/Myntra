@@ -1,0 +1,23 @@
+{
+   "myntra" :
+      [
+         {
+             "id" : 1,
+             "item" : "cargo jeans",
+             "brand" : "levis",
+             "cost" : 1500
+         }, 
+          {
+             "id" : 2,
+             "item" : "shirt",
+             "brand" : "us polo",
+             "cost" : 2500
+         }, 
+          {
+             "id" : 3,
+             "item" : "t-shirts",
+             "brand" : "pepe jeans",
+             "cost" : 3000
+         }
+      ]
+}
